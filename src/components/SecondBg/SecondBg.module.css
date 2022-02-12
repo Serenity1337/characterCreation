@@ -1,0 +1,7 @@
+.secondBg {
+  background-color: hsl(195deg, 20%, 86%);
+  width: 100vw;
+  height: 40vh;
+  position: fixed;
+  bottom: 0;
+}
